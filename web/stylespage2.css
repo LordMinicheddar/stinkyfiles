@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(255, 0, 0);
+}
+
+p{
+    color:rgb(255, 238, 0);
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 200%;
+    background-color: black;
+    border: 2.5px solid powderblue;
+    padding: 4px;
+    margin: 2px;
+    
+
+}
+
+
+button{
+    font-size: 200%;
+    background-color: rgb(255, 0, 0);
+    font-family: serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+button2{
+    font-size: 200%;
+}
+
+p2{
+    font: size 100%;
+}
+
+
+button3{
+    font-size: 0.000001%;
+    color: rgb(255, 0, 0);
+    font-style: normal;
+}
